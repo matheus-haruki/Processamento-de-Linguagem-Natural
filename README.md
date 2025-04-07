@@ -1,6 +1,6 @@
 # Processamento de Linguagem Natural (PLN)
 
-Este repositório reúne uma série de 7 notebooks interativos desenvolvidos no Google Colab, com foco em técnicas fundamentais de Processamento de Linguagem Natural (PLN). As aulas combinam teoria e prática com exemplos em Python, utilizando bibliotecas como NLTK, spaCy e Owlready2.
+Este repositório reúne uma série de 9 notebooks interativos desenvolvidos no Google Colab, com foco em técnicas fundamentais de Processamento de Linguagem Natural (PLN). As aulas combinam teoria e prática com exemplos em Python, utilizando bibliotecas como NLTK, spaCy e Owlready2.
 
 ## Objetivo
 
@@ -19,6 +19,12 @@ Oferecer uma introdução prática ao PLN, abordando desde conceitos básicos de
 **Aula 6 - Interpretação Semântica e Gramáticas**  
 
 **Aula 7 - Descoberta de Conhecimento em Textos**  
+
+**Projeto 1 - Análise Quantitativa de Corpus**
+
+**Projeto 2 - Estatística Descritiva Aplicada em um Corpus**
+
+**Projeto 3 - Análise de Relevância de Termos**
 
 
 ## Tecnologias Utilizadas
