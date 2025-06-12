@@ -20,6 +20,12 @@ Oferecer uma introdução prática ao PLN, abordando desde conceitos básicos de
 
 **Aula 7 - Descoberta de Conhecimento em Textos**  
 
+**Aula 10 - Análise de Sentimentos e Classificações de Texto**  
+
+**Aula 11 - Pipeline de Classificação de Texto**  
+
+**Aula 12 e 13 - Rede Neural**  
+
 **Projeto 1 - Análise Quantitativa de Corpus**
 
 **Projeto 2 - Estatística Descritiva Aplicada em um Corpus**
